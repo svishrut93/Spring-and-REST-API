@@ -30,7 +30,28 @@ Http methods inplemented : GET and POST <br>
 
 Run file UserResource.java inside files folder. 
 
-Below are some screenshots of outputs.
+Below are some screenshots of outputs from postman
+1. localhost/users <br>
+
+![alt text](https://github.com/svishrut93/Spring-and-REST-API/blob/master/screenshots/http%20get%20users.PNG)
+
+2. Getting data about user as json based on id : localhost/users/{id} <br>
+
+![alt text](![alt text](https://github.com/svishrut93/Spring-and-REST-API/blob/master/screenshots/http%20get%20users1.PNG)
+
+http://localhost:8080/users/3
+![alt text](https://github.com/svishrut93/Spring-and-REST-API/blob/master/screenshots/https%20get%20users%203.PNG)
+
+
+
+3. Post request to create a new user <br>
+![alt text](https://github.com/svishrut93/Spring-and-REST-API/blob/master/screenshots/http%20post%20users%20new.PNG)
+
+4. GET users after POST 
+
+![alt text](https://github.com/svishrut93/Spring-and-REST-API/blob/master/screenshots/get%20after%20post.PNG)
+
+
 
 
 
