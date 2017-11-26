@@ -30,7 +30,8 @@ Http methods inplemented : GET and POST <br>
 
 Run file UserResource.java inside files folder. 
 
-Below are some screenshots of outputs from postman
+Below are some screenshots of outputs from postman :https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en
+
 1. localhost/users <br>
 
 ![alt text](https://github.com/svishrut93/Spring-and-REST-API/blob/master/screenshots/http%20get%20users.PNG)
