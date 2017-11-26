@@ -25,8 +25,12 @@ The project currently can perform the following operations
 
 
 Server used is embedded tomcat from the spring framework. 
-All outputs are generated as a jason file. 
-http methods inplemented : GET and POST 
+All outputs are generated as a jason file.<br> 
+Http methods inplemented : GET and POST <br>
+
+Run file UserResource.java inside files folder. 
+
+Below are some screenshots of outputs.
 
 
 
