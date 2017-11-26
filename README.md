@@ -1,4 +1,4 @@
-# Spring-and-REST-API
+# Spring and REST API
 Learning to build web apps with Spring boot and REST
 
 This is a project that is in progress and i try and increase functionality and features as and when i find time. 
